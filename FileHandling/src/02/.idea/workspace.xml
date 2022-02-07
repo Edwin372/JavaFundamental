@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00886245-72db-4fa0-a62c-100cf09d1369" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../FileHandling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/accessing-files-and-directories-using-java-nio-path-slides.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03/demos/03_Reading-Writing-Text-Files/files/sonnet-ISO.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03/demos/03_Reading-Writing-Text-Files/files/sonnet-UTF8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03/demos/03_Reading-Writing-Text-Files/src/org/paumard/files/ReadingFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03/demos/03_Reading-Writing-Text-Files/src/org/paumard/files/WritingFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../03/reading-and-writing-text-files-using-the-java-nio-api-slides.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04/analyzing-csv-text-files-using-the-stream-api-slides.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04/demos/04_Analyzing CSV Text Files Using the Stream API/files/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04/demos/04_Analyzing CSV Text Files Using the Stream API/src/org/paumard/files/CSVFileAnalysis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../04/demos/04_Analyzing CSV Text Files Using the Stream API/src/org/paumard/files/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05/demos/05_Manipulating Files on a File System Using the Java NIO API/files/media/audio/take-01/jazz-01.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05/demos/05_Manipulating Files on a File System Using the Java NIO API/files/media/audio/take-01/jazz-02.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05/demos/05_Manipulating Files on a File System Using the Java NIO API/files/media/audio/take-02/song-01.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05/demos/05_Manipulating Files on a File System Using the Java NIO API/files/media/audio/take-02/song-02.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05/demos/05_Manipulating Files on a File System Using the Java NIO API/files/media/images/london/big-ben.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05/demos/05_Manipulating Files on a File System Using the Java NIO API/files/media/images/london/buckingham.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05/demos/05_Manipulating Files on a File System Using the Java NIO API/files/media/images/new-york/central-park-cr2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05/demos/05_Manipulating Files on a File System Using the Java NIO API/files/media/images/new-york/statue-of-libery.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05/demos/05_Manipulating Files on a File System Using the Java NIO API/files/media/images/paris/eiffel-tower.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05/demos/05_Manipulating Files on a File System Using the Java NIO API/files/media/images/paris/le-louvre.cr2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05/demos/05_Manipulating Files on a File System Using the Java NIO API/files/media/video/HD/clip-01.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05/demos/05_Manipulating Files on a File System Using the Java NIO API/files/media/video/HD/clip-02.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05/demos/05_Manipulating Files on a File System Using the Java NIO API/files/media/video/SD/produced-01.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05/demos/05_Manipulating Files on a File System Using the Java NIO API/files/media/video/SD/produced-02.avi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05/demos/05_Manipulating Files on a File System Using the Java NIO API/files/media/video/UHD/raw-broll-01.MXF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05/demos/05_Manipulating Files on a File System Using the Java NIO API/files/media/video/UHD/raw-footage-01.MXF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05/demos/05_Manipulating Files on a File System Using the Java NIO API/src/org/paumard/files/WalkFileTreePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05/demos/05_Manipulating Files on a File System Using the Java NIO API/src/org/paumard/files/WalkPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05/manipulating-files-on-a-file-system-using-the-java-nio-api-slides.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/modules.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="24lW4fRGRD4444lvpd2SMb1q3vY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../03" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00886245-72db-4fa0-a62c-100cf09d1369" name="Changes" comment="" />
+      <created>1644205469895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644205469895</updated>
+      <workItem from="1644205470990" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
